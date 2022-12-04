@@ -1,0 +1,4 @@
+bucketname,cardtitle,content,deadline,iscompleted,completeddate,insertdate,updatedate,dlpassed
+My first list,API card updated 12345,API Content,"November 29, 2022",False,,"November 16, 2022, 05:29:22 PM","November 27, 2022, 09:27:09 AM",True
+My first list,API card new,API Content,"November 24, 2022",True,"November 16, 2022, 06:22:33 PM","November 16, 2022, 06:22:33 PM","November 16, 2022, 06:22:33 PM",False
+My first list,API card updated 666,API Content,"November 24, 2022",True,"November 17, 2022, 09:24:05 PM","November 17, 2022, 09:24:05 PM","November 17, 2022, 09:24:05 PM",False
